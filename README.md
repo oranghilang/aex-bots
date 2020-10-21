@@ -21,7 +21,7 @@
 ### Install
 
 ```sh
-$ git clone https://github.com/ibnusyawall/aex-bot.git
+$ git clone https://github.com/Oranghilang/aex-bots.git
 $ cd aex-bot
 $ npm i
 $ npm start
